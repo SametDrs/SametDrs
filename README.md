@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sametdrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.sametdursun.com.tr"><img src="https://img.shields.io/badge/Portfolio-2f3cff?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
-  <a href="https://instagram.com/sametdrs3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/sametdrs3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
